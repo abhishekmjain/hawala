@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 git seekh liya bancho
+=======
+Omkar kadam - 141080021
+Abhishek jain - 141080022
+abhishek dudhal
+parth panchmia 141080037
+>>>>>>> 00a5034a499e61e51f5c3913ea40bf414905d3d8
