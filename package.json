@@ -1,0 +1,25 @@
+{
+  "name": "omkar",
+  "version": "1.0.0",
+  "description": "omkar",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekmjain/hawala.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "aj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekmjain/hawala/issues"
+  },
+  "homepage": "https://github.com/abhishekmjain/hawala#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
