@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-
-Omkar kadam
-abhishek jain
-abhishek dudhal 9011902243/141080016
-parth panchmia
-
-=======
 Omkar kadam - 141080021
 Abhishek jain - 141080022
-abhishek dudhal
-parth panchmia 141080037
->>>>>>> 00a5034a499e61e51f5c3913ea40bf414905d3d8
+abhishek dudhal - 141080016
+parth panchmia - 141080037
