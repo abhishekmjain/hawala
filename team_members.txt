@@ -1,17 +1,14 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 git seekh liya bancho
-=======
+
 
 Omkar kadam
 abhishek jain
 abhishek dudhal 9011902243/141080016
 parth panchmia
 
->>>>>>> 7b1e9bf1ef1b5a78211a64aae955d8c70d0d6626
-=======
+
 Omkar kadam - 141080021
 Abhishek jain - 141080022
-abhishek dudhal
-parth panchmia 141080037
->>>>>>> 00a5034a499e61e51f5c3913ea40bf414905d3d8
+abhishek dudhal - 141080016
+parth panchmia - 141080037
