@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html ng-app="vjtiApp">
+<head>
+	<title></title>
+</head>
+<body ng-controller="myCtrl">
+	<input type="text" ng-model="search"/>
+	{{restroname}}
+	<li ng-repeat="restro in restros | filter:search | orderBy:restro">
+		{{restro}}
+	</li>
+</body>
+
+<script src= "angular.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var vjtiApp = angular.module('vjtiApp',[])
+	vjtiApp.controller('myCtrl', function($scope){
+		$scope.restros = ['Taj', '5 spice'];
+		console.log($scope);
+	})
+</script>
+</html>
